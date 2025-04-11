@@ -27,3 +27,5 @@
     ```bash
     ./nginxpromax.sh
     ```
+你同样可以选择直接运行
+    ```bash <(curl -Ls https://raw.githubusercontent.com/yukinomi-git/nginxpromax.sh/refs/heads/main/nginxpromax.sh)```
