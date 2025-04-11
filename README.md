@@ -4,12 +4,16 @@
 
 ## 使用教程
 
+您可以选择以下两种方式运行脚本：
+
+**方式一：下载并执行**
+
 1.  **下载脚本**
 
     您可以使用以下命令下载脚本：
 
     ```bash
-    wget -N https://raw.githubusercontent.com/yukinomi-git/nginxpromax.sh/refs/heads/main/nginxpromax.sh
+    wget -N https://raw.githubusercontent.com/yukinomi-git/nginxpromax.sh/refs/heads/main/nginxpromax.sh)
     ```
 
 2.  **赋予脚本执行权限**
@@ -27,8 +31,10 @@
     ```bash
     ./nginxpromax.sh
     ```
-你同样可以选择直接运行
-     ```bash
-    bash <(curl -Ls https://raw.githubusercontent.com/yukinomi-git/nginxpromax.sh/refs/heads/main/nginxpromax.sh)
-    ```
-     
+
+**方式二：直接运行**
+
+您也可以使用以下命令直接运行脚本，无需先下载：
+
+```bash
+bash <(curl -Ls https://raw.githubusercontent.com/yukinomi-git/nginxpromax.sh/refs/heads/main/nginxpromax.sh)
