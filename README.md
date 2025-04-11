@@ -9,7 +9,7 @@
     您可以使用以下命令下载脚本：
 
     ```bash
-    bash <(curl -Ls https://raw.githubusercontent.com/yukinomi-git/nginxpromax.sh/refs/heads/main/nginxpromax.sh)
+    wget -N curl -Ls https://raw.githubusercontent.com/yukinomi-git/nginxpromax.sh/refs/heads/main/nginxpromax.sh
     ```
 
 2.  **赋予脚本执行权限**
