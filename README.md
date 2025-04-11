@@ -1,0 +1,1 @@
+# nginxpromax.sh
