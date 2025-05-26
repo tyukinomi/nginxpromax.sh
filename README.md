@@ -1,4 +1,4 @@
-# nginxpromax.sh
+# ncproxy.sh
 
 自建脚本，目前还有些功能未能完善。
 
