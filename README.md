@@ -15,6 +15,9 @@
     ```bash
     wget -N https://raw.githubusercontent.com/yukinomi-git/nginxpromax.sh/refs/heads/main/ncproxy.sh
     ```
+    ```bash
+    wget -N https://raw.githubusercontent.com/yukinomi-git/nginxpromax.sh/refs/heads/main/cproxy.sh
+    ```
 
 2.  **赋予脚本执行权限**
 
@@ -22,6 +25,9 @@
 
     ```bash
     chmod +x ncproxy.sh
+    ```
+    ```bash
+    chmod +x cproxy.sh
     ```
 
 3.  **运行脚本**
@@ -31,6 +37,9 @@
     ```bash
     ./ncproxy.sh
     ```
+     ```bash
+    ./cproxy.sh
+    ```
 
 **方式二：直接运行**
 
@@ -38,3 +47,7 @@
 
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/yukinomi-git/nginxpromax.sh/refs/heads/main/ncproxy.sh)
+
+```bash
+bash <(curl -Ls https://raw.githubusercontent.com/yukinomi-git/nginxpromax.sh/refs/heads/main/cproxy.sh)
+
