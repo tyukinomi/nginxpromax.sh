@@ -47,6 +47,7 @@
 
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/yukinomi-git/nginxpromax.sh/refs/heads/main/ncproxy.sh)
+```
 
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/yukinomi-git/nginxpromax.sh/refs/heads/main/cproxy.sh)
